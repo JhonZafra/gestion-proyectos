@@ -1,11 +1,11 @@
-.fondo-rojo {
+.fondo-azul {
     background-color: blue;
 }
 
-.fondo-azul {
+.fondo-beige {
     background-color: beige;
 }
 
 .fondo-verde {
-    background-color: green;
+    background-color: rgb(118, 168, 118);
 }
